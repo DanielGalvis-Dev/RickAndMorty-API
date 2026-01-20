@@ -32,9 +32,8 @@ Antes de comenzar, asegúrate de tener instalado:
 
 ## 📦 Instalación
 
-### Paso 1: Clonar o crear el proyecto
+### Paso 1: Clonar el proyecto
 
-Si tienes el repositorio:
 ```bash
 git clone https://github.com/danielgalvis-dev/rickandmortyapi-pinktech.git
 cd rickandmortyapi-pinktech
