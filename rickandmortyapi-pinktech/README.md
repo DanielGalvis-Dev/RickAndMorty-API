@@ -3,7 +3,7 @@
 Aplicación web para explorar personajes de Rick and Morty usando su API oficial.
 
 **Desarrollado por:** Daniel Galvis 
-**Challenge:** Pink Technologies S.A.S.  
+**Challenge:** PinkTech  
 **Fecha:** Enero 2026
 
 ---
